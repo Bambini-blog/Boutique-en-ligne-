@@ -1,2 +1,0 @@
-# Boutique-en-ligne-
-Stylesheet
